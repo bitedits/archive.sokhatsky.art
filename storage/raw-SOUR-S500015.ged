@@ -1,0 +1,23 @@
+0 @S500015@ SOUR
+1 _UPD 15 MAR 2021 13:05:51 GMT -0500 
+1 TITL U.S. Social Security Applications and Claims, 1936-2007
+1 PUBL MyHeritage
+1 TEXT <p>Starting in 1936 the Social Security Administration started to maintain records of each individual who applied for a Social Security Number. The earliest form of these records were known as the “
+2 CONC Master Files of the Social Security (SSN) Holders and SSN Applications”. This was more commonly known simply as the “Enumeration System”. In the 1970s legacy records from this system were migrat
+2 CONC ed and new records were maintained electronically in the Numerical Identification System (NUMIDENT).</p>
+2 CONC <p>This collection contains records of individuals with a verified death between 1936 and 2007 or who would have been over 110 years old by December 31, 2007. There are three types of entries in NUMID
+2 CONC ENT: applications (SS-5), claims, and death entries. The records of applications and claims are presented here in this collection. The death entries are available on MyHeritage as the <a id="" href="h
+2 CONC ttps://www.myheritage.com/research/collection-10002/" class="green">U.S. Social Security Death Index (SSDI).</a></p>
+2 CONC <p>The application (SS-5) records contain information extracted from the SS-5 form “Application for a Social Security Card” or “Application for Social Security Account Number.” Information in 
+2 CONC the NUMIDENT application entries include applicant’s full name, father’s name, mother’s maiden name, sex, race/ethnic description, place of birth, and other information about the application and
+2 CONC  subsequent changes to the applicant’s record - such as name changes especially common (and even required) when women marry. For about 43 percent of social security numbers, there are multiple appli
+2 CONC cation records.</p>
+2 CONC <p>The application records preserved by the Social Security Administration do not include records of all social security applications between 1936 and 2007. Information of applications prior to 1973 m
+2 CONC ay be incomplete. There may not be a record for an individual in both the application records and the death entries and there are nearly 6 million social security numbers in the application records th
+2 CONC at do not appear in the death entries. And conversely, there are records in the death entries that have no corresponding extant record in the application entries.</p>
+2 CONC <p>The claim records include information on the type of claim, the claimant’s full name, date of birth, gender, and for about half of the claim records the US state or country of birth. For a small 
+2 CONC number of social security numbers there are multiple claim records.</p>
+2 CONC <p>Records in this collection may have place names that were abbreviated or personal names that were truncated in the data supplied by the Social Security Administration. MyHeritage has corrected and 
+2 CONC expanded many of these when possible but other values remain abbreviated or truncated.</p>
+1 _TYPE Collection
+1 _MEDI 10863
